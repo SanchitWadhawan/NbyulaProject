@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@300&family=The+Nautigal:wght@700&display=swap');
+*{
+    margin: 0px;
+    box-sizing: border-box;
+    padding:0px;
+}
+.container{
+    background-color: aliceblue;
+    height: 834px;
+}
+.nav
+{
+font-size: xx-large;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-content: space-between;
+    height: 900px;
+}
+.smallbox{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 98px;
+    padding: 208px 34px 118px 451px;
+}
+a{
+    text-decoration: none;
+}
+.smallbox23{
+margin: 2px 2px 2px 2px;
+}
